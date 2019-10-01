@@ -1,0 +1,54 @@
+.navbar-custom{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+.nav li a:hover{
+    background: black;
+    border-radius: 10px;
+}
+
+header{
+    height: 450px;
+    color: black;
+    padding: 150px 0;
+}
+
+header h1{
+    font-size: 50px;
+    text-shadow: 3px 3px 3px white;
+}
+
+header P{
+    font-size: 20px;
+    text-shadow: 2px 2px 2px white;
+}
+
+.block-a{
+  font-size: 20px;
+  margin: 20px 0;  
+  border-top:1px solid gray;
+  padding: 5px 0;
+}
+
+.block-b{
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    padding: 5px 0;
+    background: #f1f1f1;
+  }
+
+.footer1{
+    width: 100%;
+    padding: 10px 0;
+    color: black;
+    background: gray;
+    
+
+}
